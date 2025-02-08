@@ -14,10 +14,10 @@ function App() {
   ]
 
   const gifs = [
-    "./public/pusheen-mouse.gif",
-    "./public/pusheen-noodle.gif",
-    "./public/pusheen-sad.gif",
-    "./public/pusheen-mad.gif"
+    "/pusheen-mouse.gif",
+    "/pusheen-noodle.gif",
+    "/pusheen-sad.gif",
+    "/pusheen-mad.gif"
   ]
 
   const yesButtonSizes = [
