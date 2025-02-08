@@ -24,7 +24,7 @@ const CustomModal: React.FC<CustomModalProps> = ({ isOpen, onClose }) => {
         <p className="text-xl mb-6">
           Date time! Binondo + kaimn! 💕
         </p>
-        <img src="./public/pusheen-happy.gif" alt="" />
+        <img src="/pusheen-happy.gif" alt="" />
         <div className="flex justify-center">
           <Button
             onClick={onClose} 
